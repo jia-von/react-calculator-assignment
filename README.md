@@ -1,4 +1,27 @@
-References:
+# React Calculator Assignment
+
+This assignment was created to challenge myself with the knowledge of state, prop, and element rendering in React. 
+
+## Installation
+
+```bash
+$ git clone https://github.com/jia-von/react-calculator-assignment.git
+$ hCareer/Completed Assignments
+$ cd react-calculator-assignment-jia-von
+$ cd react-calculator-assignment
+$ npm install
+$ npm start
+```
+
+## Usage
+
+When the app runs in development mode, open http://localhost:3000  to view it in the browser.
+
+### Screenshot
+
+![browser](browser.PNG)
+
+## References:
 
 MDN web docs. 2020a. Your first form. URL: https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form. Date accessed July 27, 2020. 
 
